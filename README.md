@@ -1,6 +1,6 @@
 ### ¡Hola a todos! Mi nombre es Juan - aka [ValD3x] 👋
 
-## Soy ing en sistemas
+## Soy ing en sistemas :computer:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdex55&show_icons=true&theme=tokyonight)
 
