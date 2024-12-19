@@ -10,4 +10,6 @@
 
 otros programas que se usar
 ~adobe photoshop [<img align="left" alt="adobe" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg"/>] 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg"/>][Adobe]!
+
+[Adobe]:https://www.adobe.com/mx/products/photoshop.html
